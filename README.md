@@ -1,10 +1,20 @@
-# Automotive Python 2020.07Alpha
+# Automotive Python
 
 All Batteries Included, Data Analysis Stack for Automotive: Locked down Windows PCs.
 
 > *Microsoft was on the wrong side of history when open source exploded at the beginning of the century, and I can say that about me personally*
   - [Microsoft: we were wrong about open source - The Verge](https://www.theverge.com/2020/5/18/21262103/microsoft-open-source-linux-history-wrong-statement)
-  
+    
+## Usage:
+
+1. Download Release: [AutomotivePython-3770-v0.0.1.exe](https://github.com/AutomotiveDevOps/AutomotivePython/releases/download/v0.0.0-apfel/AutomotivePython-3770-v0.0.1.exe)
+2. Double click on the exe and extract where ever best suits you.
+3. Open AutomotivePython folder:
+  - Command Prompt: Launches a command prompt with PATH set to access: python, gcc/make/cmake, pandoc, etc.
+  - JupyterLab/Jupyter Notebook: Launches the respective Jupyter Environment.
+  - Spyder & VSCode: Launches the respective IDE environment.
+
+
 ## Toolset.
 
 - [WinPython](https://winpython.github.io/)
