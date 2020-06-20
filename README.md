@@ -14,7 +14,8 @@ All Batteries Included, Data Analysis Stack for Automotive: Locked down Windows 
     - [Visual Studio Code](https://code.visualstudio.com/)
       > *Code editing.
 Redefined.*
-
+  - Jupyter Lab & Notebook
+  
 Plus:
 
 - [asammdf](https://asammdf.readthedocs.io/en/latest/): A fast parser and editor for ASAM (Associtation for Standardisation of Automation and Measuring Systems) MDF (Measurement Data Format) files.
@@ -30,6 +31,4 @@ With additional tools:
 - [minio](https://min.io/): S3 compatible cloud storage server, locally.
 - [mc](https://docs.min.io/docs/minio-client-complete-guide.html): MinIO Client (mc) provides a modern alternative to UNIX commands like ls, cat, cp, mirror, diff etc. It supports filesystems and Amazon S3, Google Cloud Storage, & Azure Data Lakes.
 
-
 ![asammdf logo.](https://asammdf.readthedocs.io/en/latest/_static/asammdf.png)
-![doorstop logo.](https://raw.githubusercontent.com/doorstop-dev/doorstop/develop/docs/images/logo-black-white.png)
