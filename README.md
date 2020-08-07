@@ -4,6 +4,8 @@ All Batteries Included, Data Analysis Stack for Automotive: Locked down Windows 
 
 > *Microsoft was on the wrong side of history when open source exploded at the beginning of the century, and I can say that about me personally*
   - [Microsoft: we were wrong about open source - The Verge](https://www.theverge.com/2020/5/18/21262103/microsoft-open-source-linux-history-wrong-statement)
+
+([A meme page to check every time MatLab crashes](https://twitter.com/memecrashes))
     
 ## Usage:
 
@@ -40,5 +42,3 @@ With additional tools:
 - [MinGW Distro](https://nuwen.net/mingw.html): 
 - [minio](https://min.io/): S3 compatible cloud storage server, locally.
 - [mc](https://docs.min.io/docs/minio-client-complete-guide.html): MinIO Client (mc) provides a modern alternative to UNIX commands like ls, cat, cp, mirror, diff etc. It supports filesystems and Amazon S3, Google Cloud Storage, & Azure Data Lakes.
-
-![asammdf logo.](https://asammdf.readthedocs.io/en/latest/_static/asammdf.png)
